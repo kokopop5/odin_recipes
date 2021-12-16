@@ -1,2 +1,2 @@
 # odin_recipes
-FIrst Web PRoject
+FIrst Web Project
